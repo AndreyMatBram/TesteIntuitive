@@ -56,7 +56,8 @@ preferências pessoais, organizando tudo em um arquivo separado chamado Adiciona
 realizei a importação dos dados, usando em sua maioria o tipo `VARCHAR`, devido aos problemas encontrados.
 
 
-4- 
+Exercicio quatro: 
+
  Muito embora eu ja tenha feito alguns projetos academicos com angular e react, esta foi minha primeira interação com vue porem
 como todo framework de html a estrutura não muda muito, outro ponto que utilizei pela primeira vez foi o back com python em outros
 projetos sempre utilizei do javascript apenas.
