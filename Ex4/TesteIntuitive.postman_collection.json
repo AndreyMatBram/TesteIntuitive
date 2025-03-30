@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "5593c3a8-5e50-4c0a-8a56-b9485e1b8b37",
+		"name": "TesteIntuitive",
+		"description": "> Não tenho muita certeza do que esperam desta parte.  \nNão tenho conhecimentos do postman avançados e quando o usei foi apenas para testar rotas simples \n  \n\nTeste de rota,\n\nrota atual:  \n/buscar  \nAtributo: busca  \nbusca a palavra passada na tabela e retorna os coincidentes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43596063",
+		"_collection_link": "https://andrey-6015286.postman.co/workspace/16096398-f3be-4020-8d21-b08ceb44600c/collection/43596063-5593c3a8-5e50-4c0a-8a56-b9485e1b8b37?action=share&source=collection_link&creator=43596063"
+	},
+	"item": [
+		{
+			"name": "buscaSaoPaulo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buscaSaude",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
